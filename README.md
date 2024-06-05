@@ -78,14 +78,9 @@ All operations performed by the scripts are logged for auditing and troubleshoot
 
 Contributions are welcome! If you have any suggestions for improvements or find any issues, please open an issue or submit a pull request.
 
-### License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ### Contact
 
-For questions or further information, please contact [yourname@yourdomain.com](mailto:yourname@yourdomain.com).
-
+For questions or further information, please contact lukesundar@gmail.com
 ---
 
 By using this repository, you can efficiently manage user and group creation in your Active Directory environment, leveraging the power and flexibility of PowerShell.
